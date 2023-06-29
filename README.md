@@ -7,3 +7,7 @@ Ce dossier contient des travaux sur les émissions carbone des entreprises, nott
 
 
 - 📫 How to reach me: wiem.dali@icloud.com
+
+<p float="center">
+  <img src="src/emissiongraph.jpg?raw=false" width="50%" /> 
+</p>
