@@ -4,5 +4,5 @@ C'est une application qui permet aux Carbon Accountants de réaliser leurs calcu
 
 
 <p float="left">
-  <img src="src/emissiongraph.jpg?raw=true" width="61.5%" /> 
+  <img src="../src/emissiongraph.jpg?raw=true" width="61.5%" /> 
 </p>
